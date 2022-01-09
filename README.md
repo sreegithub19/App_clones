@@ -3,20 +3,25 @@
 <h3>Table of Contents </h3><br>
 <ol>
     <li>
-        <a href="#Lnk"></a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#1-whatsapp_2"></a>
     </li>
     <li>
-        <a href="#Lnk"></a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#2-wix"></a>
     </li>
-    <ol>
-        <li>
-            <a href="#Lnk"></a>
-        </li>
-        <li>
-            <a href="#Lnk"></a>
-        </li>
-    </ol>
+    <li>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#3-ms-paint"></a>
+    </li>
+    <li>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#4-video-meeting"></a>
+    </li>
+    <li>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#5-javascript-applications"></a>
+    </li>
+    <li>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#6-google-translate-app"></a>
+    </li>
 </ol>
+<hr>
 <h3>1. whatsapp_2:</h3>  https://github.com/sreegithub19/whatsapp-2 <br>
 <p>Screenshots:</p>
 <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
