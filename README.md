@@ -21,11 +21,21 @@
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#6-google-translate-app">Google-Translate</a>
     </li>
 </ol>
+
 <hr>
 <h3>1. whatsapp_2:</h3>  https://github.com/sreegithub19/whatsapp-2 <br>
 <p>Screenshots:</p>
-<img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
-<img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+     <table>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+        </td>
+        <td>300</td>
+      </tr>
+    </table>
 <hr>
 <h3>2. wix:</h3> https://github.com/sreegithub19/grapesjs
 <hr>
