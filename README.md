@@ -31,10 +31,17 @@
         <td>
           <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
           <br>
-          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+          <figcaption>1_whatsapp_login_screenshot</figcaption>
         </td>
         <td>
             <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+            <br>
+          <figcaption>2_chats_screen</figcaption>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/3_sample_chat_sender_and_receiver.png" width="400" height="300"/>
+            <br>
+          <figcaption>3_sample_chat_sender_and_receiver</figcaption>
         </td>
       </tr>
     </table>
