@@ -40,17 +40,82 @@
     </table>
 <hr>
 
-<h3>2. wix:</h3> https://github.com/sreegithub19/grapesjs
+<h3>2. wix:</h3> https://github.com/sreegithub19/grapesjs <br>
+<p>Screenshots:</p>
+     <table>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <br>
+          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+        </td>
+      </tr>
+    </table>
 <hr>
 
-<h3>3. MS Paint:</h3> https://github.com/sreegithub19/jspaint
+<h3>3. MS Paint:</h3> https://github.com/sreegithub19/jspaint <br>
+<p>Screenshots:</p>
+     <table>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <br>
+          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+        </td>
+      </tr>
+    </table>
 <hr>
 
-<h3>4. Video-Meeting:</h3> https://github.com/sreegithub19/Video-Meeting
+<h3>4. Video-Meeting:</h3> https://github.com/sreegithub19/Video-Meeting <br>
+<p>Screenshots:</p>
+     <table>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <br>
+          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+        </td>
+      </tr>
+    </table>
 <hr>
 
-<h3>5. JavaScript-Applications:</h3> https://github.com/sreegithub19/JavaScript-Applications
+<h3>5. JavaScript-Applications:</h3> https://github.com/sreegithub19/JavaScript-Applications <br>
+<p>Screenshots:</p>
+     <table>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <br>
+          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+        </td>
+      </tr>
+    </table>
 <hr>
 
-<h3>6. Google Translate App:</h3> https://github.com/sreegithub19/google-translate-clone
+<h3>6. Google Translate App:</h3> https://github.com/sreegithub19/google-translate-clone <br>
+<p>Screenshots:</p>
+     <table>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <br>
+          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+        </td>
+      </tr>
+    </table>
 <hr>
