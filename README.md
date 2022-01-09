@@ -52,14 +52,28 @@
      <table>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/1_home-page.png" width="400" height="300"/>
           <br>
-          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+          <figcaption>1_whatsapp_login_screenshot</figcaption>
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/2_boxes.png" width="400" height="300"/>
+            <br>
+          <figcaption>2_boxes</figcaption>
         </td>
-      </tr>
+     </tr>
+     <tr>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/3_style-manager.png" width="400" height="300"/>
+            <br>
+          <figcaption>3_style-manager</figcaption>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/4_code-manager.png" width="400" height="300"/>
+            <br>
+          <figcaption>4_code-manager</figcaption>
+        </td>
+    </tr>
     </table>
 <hr>
 
