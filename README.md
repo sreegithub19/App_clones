@@ -94,12 +94,54 @@
      <table>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/1_home-page.png" width="400" height="300"/>
           <br>
-          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+          <figcaption>1_home-page</figcaption>
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/2_applications-page.png" width="400" height="300"/>
+          <br>
+          <figcaption>2_applications-page</figcaption>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/3_calculator.png" width="400" height="300"/>
+          <br>
+          <figcaption>3_calculator</figcaption>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/4_maze.png" width="400" height="300"/>
+          <br>
+          <figcaption>4_maze</figcaption>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/5_tic-tac-toe.png" width="400" height="300"/>
+          <br>
+          <figcaption>5_tic-tac-toe</figcaption>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/6_analog-clock.png" width="400" height="300"/>
+          <br>
+          <figcaption>6_analog-clock</figcaption>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/7_hangman.png" width="400" height="300"/>
+          <br>
+          <figcaption>7_hangman</figcaption>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/8_puzzles.png" width="400" height="300"/>
+          <br>
+          <figcaption>8_puzzles</figcaption>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/9_sudoku.png" width="400" height="300"/>
+          <br>
+          <figcaption>9_sudoku</figcaption>
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/10_virtual-keyboard.png" width="400" height="300"/>
+          <br>
+          <figcaption>10_virtual-keyboard</figcaption>
         </td>
       </tr>
     </table>
