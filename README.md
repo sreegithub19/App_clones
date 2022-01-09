@@ -108,6 +108,8 @@
           <br>
           <figcaption>3_calculator</figcaption>
         </td>
+     </tr>
+     <tr>
         <td>
           <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/4_maze.png" width="400" height="300"/>
           <br>
@@ -123,6 +125,8 @@
           <br>
           <figcaption>6_analog-clock</figcaption>
         </td>
+       </tr>
+       <tr>
         <td>
           <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/7_hangman.png" width="400" height="300"/>
           <br>
@@ -138,6 +142,8 @@
           <br>
           <figcaption>9_sudoku</figcaption>
         </td>
+     </tr>
+     <tr>
         <td>
           <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/5_JavaScript-Applications/10_virtual-keyboard.png" width="400" height="300"/>
           <br>
