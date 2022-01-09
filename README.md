@@ -68,12 +68,9 @@
      <table>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/3_MS-Paint/1_sample-drawing.png" width="400" height="300"/>
           <br>
-          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+          <figcaption>1_sample-drawing</figcaption>
         </td>
       </tr>
     </table>
@@ -84,12 +81,9 @@
      <table>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/4_Video-Meeting/1_sample-video-chat.png" width="400" height="300"/>
           <br>
-          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+          <figcaption>1_sample-video-chat</figcaption>
         </td>
       </tr>
     </table>
@@ -116,12 +110,9 @@
      <table>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/1_whatsapp_login_screenshot.png" width="400" height="300"/>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/6_Google-translate/1_sample-translation.png" width="400" height="300"/>
           <br>
-          <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/1_whatsapp/2_chats_screen.png" width="400" height="300"/>
+          <figcaption>1_sample-translation</figcaption>
         </td>
       </tr>
     </table>
