@@ -3,22 +3,22 @@
 <h3>Table of Contents </h3><br>
 <ol>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#1-whatsapp_2"></a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#1-whatsapp_2">Whatsapp-2</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#2-wix"></a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#2-wix">Wix</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#3-ms-paint"></a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#3-ms-paint">MS-Paint</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#4-video-meeting"></a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#4-video-meeting">Video-Meeting</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#5-javascript-applications"></a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#5-javascript-applications">JavaScript-Applications</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#6-google-translate-app"></a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#6-google-translate-app">Google-Translate</a>
     </li>
 </ol>
 <hr>
