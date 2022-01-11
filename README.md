@@ -48,7 +48,7 @@
 <hr>
 
 <h3>2. wix:</h3> https://github.com/sreegithub19/grapesjs <br>
-<p>Done only for practice and to understand the code, not for deployment.</p>
+<p>(Done only for practice and to understand the code, not for deployment.)</p>
 <p>Screenshots:</p>
      <table>
       <tr>
