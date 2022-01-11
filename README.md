@@ -6,7 +6,7 @@
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#1-whatsapp_2">Whatsapp-2</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#2-wix">Wix</a>  (Done only for practice and to understand the code, not for deployment.)
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#2-wix">Wix</a>     (Done only for practice and to understand the code, not for deployment.)
     </li>
     <li>
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#3-ms-paint">MS-Paint</a>
