@@ -7,7 +7,6 @@
     </li>
     <li>
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#2-wix">Wix</a>
-        <p> (Just for practice, not for deployment) </p>
     </li>
     <li>
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#3-ms-paint">MS-Paint</a>
