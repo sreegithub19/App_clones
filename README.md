@@ -48,13 +48,14 @@
 <hr>
 
 <h3>2. wix:</h3> https://github.com/sreegithub19/grapesjs <br>
+<p>Done only for practice and to understand the code, not for deployment.</p>
 <p>Screenshots:</p>
      <table>
       <tr>
         <td>
           <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/1_home-page.png" width="400" height="300"/>
           <br>
-          <figcaption>1_whatsapp_login_screenshot</figcaption>
+          <figcaption>1_home_page</figcaption>
         </td>
         <td>
             <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/2_boxes.png" width="400" height="300"/>
