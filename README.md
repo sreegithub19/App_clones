@@ -6,16 +6,16 @@
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#1-whatsapp_2">Whatsapp-2</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#3-ms-paint">MS-Paint</a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#2-ms-paint">MS-Paint</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#4-video-meeting">Video-Meeting</a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#3-video-meeting">Video-Meeting</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#5-javascript-applications">JavaScript-Applications</a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#4-javascript-applications">JavaScript-Applications</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#6-google-translate-app">Google-Translate</a>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#5-google-translate-app">Google-Translate</a>
     </li>
 </ol>
 
