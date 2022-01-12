@@ -1,5 +1,5 @@
 <h1>App_clones:</h1>
-<h2>These are the source codes for some of the App clones / Projects done by me (except for Wix): </h2><br>
+<h2>These are the source codes for some of the App clones / Projects done by me:</h2><br>
 <h3>Table of Contents </h3><br>
 <ol>
     <li>
