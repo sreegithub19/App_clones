@@ -6,10 +6,6 @@
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#1-whatsapp_2">Whatsapp-2</a>
     </li>
     <li>
-        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#2-wix">Wix</a>   (Done only for practice and to understand the code, not for deployment.)<br>
-     Courtesy: https://github.com/artf/grapesjs
-    </li>
-    <li>
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#3-ms-paint">MS-Paint</a>
     </li>
     <li>
@@ -48,38 +44,7 @@
     </table>
 <hr>
 
-<h3>2. wix:</h3> https://github.com/sreegithub19/grapesjs <br>
-<p>(Done only for practice and to understand the code, not for deployment.)</p>
-<p>Screenshots:</p>
-     <table>
-      <tr>
-        <td>
-          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/1_home-page.png" width="400" height="300"/>
-          <br>
-          <figcaption>1_home_page</figcaption>
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/2_boxes.png" width="400" height="300"/>
-            <br>
-          <figcaption>2_boxes</figcaption>
-        </td>
-     </tr>
-     <tr>
-        <td>
-            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/3_style-manager.png" width="400" height="300"/>
-            <br>
-          <figcaption>3_style-manager</figcaption>
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/2_wix/4_code-manager.png" width="400" height="300"/>
-            <br>
-          <figcaption>4_code-manager</figcaption>
-        </td>
-    </tr>
-    </table>
-<hr>
-
-<h3>3. MS Paint:</h3> https://github.com/sreegithub19/jspaint <br>
+<h3>2. MS Paint:</h3> https://github.com/sreegithub19/jspaint <br>
 <p>Screenshots:</p>
      <table>
       <tr>
@@ -92,7 +57,7 @@
     </table>
 <hr>
 
-<h3>4. Video-Meeting:</h3> https://github.com/sreegithub19/Video-Meeting <br>
+<h3>3. Video-Meeting:</h3> https://github.com/sreegithub19/Video-Meeting <br>
 <p>Screenshots:</p>
      <table>
       <tr>
@@ -105,7 +70,7 @@
     </table>
 <hr>
 
-<h3>5. JavaScript-Applications:</h3> https://github.com/sreegithub19/JavaScript-Applications <br>
+<h3>4. JavaScript-Applications:</h3> https://github.com/sreegithub19/JavaScript-Applications <br>
 <p>Screenshots:</p>
      <table>
       <tr>
@@ -169,7 +134,7 @@
     </table>
 <hr>
 
-<h3>6. Google Translate App:</h3> https://github.com/sreegithub19/google-translate-clone <br>
+<h3>5. Google Translate App:</h3> https://github.com/sreegithub19/google-translate-clone <br>
 <p>Screenshots:</p>
      <table>
       <tr>
