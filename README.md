@@ -151,15 +151,15 @@
 <hr>
 
 <h3>6. Codepen:</h3> <br>
-https://github.com/sreegithub19/codepen <br>
-https://github.com/sreegithub19/codepen_2 <br>
+(i) React App: https://github.com/sreegithub19/codepen <br>
+(ii) Express App: https://github.com/sreegithub19/codepen_2 <br>
 <p>Screenshots:</p>
      <table>
       <tr>
         <td>
           <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/7_Codepen/1_example.png" width="400" height="300"/>
           <br>
-          <figcaption>1_example</figcaption>
+          <figcaption>React App: 1_example</figcaption>
         </td>
       </tr>
     </table>
