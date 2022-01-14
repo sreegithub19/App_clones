@@ -155,9 +155,9 @@
      <table>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/6_Google-Translate/1_sample-translation.png" width="400" height="300"/>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/7_Codepen/1_example.png" width="400" height="300"/>
           <br>
-          <figcaption>1_sample-translation</figcaption>
+          <figcaption>1_example</figcaption>
         </td>
       </tr>
     </table>
