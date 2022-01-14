@@ -17,6 +17,9 @@
     <li>
         <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#5-google-translate-app">Google-Translate</a>
     </li>
+    <li>
+        <a href="https://github.com/sreegithub19/App_clones/blob/main/README.md#6-Codepen">Codepen</a>
+    </li>
 </ol>
 
 <hr>
@@ -135,6 +138,19 @@
 <hr>
 
 <h3>5. Google Translate App:</h3> https://github.com/sreegithub19/google-translate-clone <br>
+<p>Screenshots:</p>
+     <table>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/6_Google-Translate/1_sample-translation.png" width="400" height="300"/>
+          <br>
+          <figcaption>1_sample-translation</figcaption>
+        </td>
+      </tr>
+    </table>
+<hr>
+
+<h3>6. Codepen:</h3> https://github.com/sreegithub19/codepen <br>
 <p>Screenshots:</p>
      <table>
       <tr>
