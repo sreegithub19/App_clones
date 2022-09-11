@@ -74,6 +74,8 @@
 <hr>
 
 <h3>4. JavaScript-Applications:</h3> https://github.com/sreegithub19/JavaScript-Applications <br>
+https://github.com/sreegithub19/vue_project<br>
+https://github.com/sreegithub19/my_react_app<br>
 <p>Screenshots:</p>
      <table>
       <tr>
@@ -152,7 +154,6 @@
 
 <h3>6. Codepen:</h3> <br>
 (i) React App: https://github.com/sreegithub19/codepen <br>
-(ii) Express App: https://github.com/sreegithub19/codepen_2 <br>
 <p>Screenshots:</p>
      <table>
       <tr>
