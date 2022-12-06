@@ -73,9 +73,14 @@
     </table>
 <hr>
 
-<h3>4. JavaScript-Applications:</h3> https://github.com/sreegithub19/JavaScript-Applications <br>
-https://github.com/sreegithub19/vue_project<br>
-https://github.com/sreegithub19/my_react_app<br>
+<h3>4. JavaScript-Applications:</h3> 
+- https://github.com/sreegithub19/JavaScript-Applications
+- https://github.com/sreegithub19/vue_project
+- https://github.com/sreegithub19/my_react_app
+- https://github.com/sreegithub19/my_angular_app
+  - https://my-angular-app-rust.vercel.app/
+- https://github.com/sreegithub19/my_angular_app/tree/main
+<br>
 <p>Screenshots:</p>
      <table>
       <tr>
