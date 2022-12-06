@@ -75,17 +75,21 @@
 
 <h3>4. JavaScript-Applications:</h3> <br>
 Express: https://github.com/sreegithub19/JavaScript-Applications  : https://serene-stream-98532.herokuapp.com/ <br>
+Express: https://github.com/sreegithub19/express_vercel_app : https://express-vercel-app-xi.vercel.app/ <br>
 Vue: https://github.com/sreegithub19/vue_project : http://vue-project-liart.vercel.app/ <br>
 Vue: https://github.com/sreegithub19/vuejs_training : https://vuejs-training.vercel.app/ <br>
 Vue: https://github.com/sreegithub19/vuejs_training/tree/typescript : https://vuejs-training-2bd4s4iu3-sreegithub19.vercel.app/ <br>
 React: https://github.com/sreegithub19/my_react_app  : https://my-react-app-one-sigma.vercel.app/<br>
-React: https://github.com/sreegithub19/my_react_app/tree/main : https://my-react-ouhg5z0db-sreegithub19.vercel.app/
+React: https://github.com/sreegithub19/my_react_app/tree/main : https://my-react-ouhg5z0db-sreegithub19.vercel.app/ <br>
 Angular: https://github.com/sreegithub19/my_angular_app  :  https://my-angular-app-rust.vercel.app/  <br>
 Angular: https://github.com/sreegithub19/my_angular_app/tree/main : https://my-angular-q3ir60od6-sreegithub19.vercel.app/ <br>
 Ionic: https://github.com/sreegithub19/ionic_app : https://ionic-app-nu.vercel.app/ <br>
 Solid: https://github.com/sreegithub19/solid_app : http://solid-app-alpha.vercel.app/ <br>
 Solid: https://github.com/sreegithub19/solid_app/tree/typescript : https://solid-c3aqyyctd-sreegithub19.vercel.app/ <br>
 Flask: https://github.com/sreegithub19/vercel_flask_app : https://flask-vercel-1-sand.vercel.app/ <br>
+Django: https://github.com/sreegithub19/vercel_django_example : https://vercel-django-example-phi.vercel.app/ <br>
+Next: https://github.com/sreegithub19/nextjs_app : http://nextjs-sreegithub19.vercel.app/ <br>
+Nest: https://github.com/sreegithub19/nestjs_app : https://nestjs-app-eight.vercel.app/ <br>
 <br>
 <p>Screenshots:</p>
      <table>
