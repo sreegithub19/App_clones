@@ -77,9 +77,8 @@
 https://github.com/sreegithub19/JavaScript-Applications  <br>
 https://github.com/sreegithub19/vue_project  <br>
 https://github.com/sreegithub19/my_react_app  <br>
-https://github.com/sreegithub19/my_angular_app  <br>
-https://my-angular-app-rust.vercel.app/  <br>
-https://github.com/sreegithub19/my_angular_app/tree/main  <br>
+https://github.com/sreegithub19/my_angular_app  :  https://my-angular-app-rust.vercel.app/  <br>
+https://github.com/sreegithub19/my_angular_app/tree/main : https://my-angular-q3ir60od6-sreegithub19.vercel.app/<br>
 <br>
 <p>Screenshots:</p>
      <table>
