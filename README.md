@@ -89,7 +89,7 @@ Solid: https://github.com/sreegithub19/solid_app/tree/typescript : https://solid
 Flask: https://github.com/sreegithub19/vercel_flask_app : https://flask-vercel-1-sand.vercel.app/ <br>
 Django: https://github.com/sreegithub19/vercel_django_example : https://vercel-django-example-phi.vercel.app/ <br>
 Next: https://github.com/sreegithub19/nextjs_app : http://nextjs-sreegithub19.vercel.app/ <br>
-Nest: https://github.com/sreegithub19/nestjs_app : https://nestjs-app-eight.vercel.app/ <br>
+Nest: https://github.com/sreegithub19/nestjs_app : https://nestjs-now-nine-olive.vercel.app/ <br>
 <br>
 <p>Screenshots:</p>
      <table>
