@@ -90,6 +90,15 @@ Flask: https://github.com/sreegithub19/vercel_flask_app : https://flask-vercel-1
 Django: https://github.com/sreegithub19/vercel_django_example : https://vercel-django-example-phi.vercel.app/ <br>
 Next: https://github.com/sreegithub19/nextjs_app : http://nextjs-sreegithub19.vercel.app/ <br>
 Nest: https://github.com/sreegithub19/nestjs_app : https://nestjs-now-nine-olive.vercel.app/ <br>
+Svelte: https://github.com/sreegithub19/svelte: http://svelte-one-topaz.vercel.app/ <br>
+Ember: https://github.com/sreegithub19/ember: http://ember-omega-seven.vercel.app/ <br>
+Umijs: https://github.com/sreegithub19/umijs: http://umijs-smoky-nu.vercel.app/ <br>
+Stencil: https://github.com/sreegithub19/stencil: http://stencil-pink-xi.vercel.app/ <br>
+Brunch: https://github.com/sreegithub19/brunch: http://brunch-alpha-sooty.vercel.app/ <br>
+Node server: https://github.com/sreegithub19/node_server: https://node-server-self.vercel.app/ <br>
+Python server: https://github.com/sreegithub19/python_server: https://python-server-beta.vercel.app/api <br>
+Hapijs: https://github.com/sreegithub19/hapijs_vercel: https://hapijs-vercel.vercel.app/ <br>
+Koa: https://github.com/sreegithub19/koa_project: http://koa-project-one.vercel.app/ <br>
 <br>
 <p>Screenshots:</p>
      <table>
