@@ -96,7 +96,7 @@ Umijs: https://github.com/sreegithub19/umijs: http://umijs-smoky-nu.vercel.app/ 
 Stencil: https://github.com/sreegithub19/stencil: http://stencil-pink-xi.vercel.app/ <br>
 Brunch: https://github.com/sreegithub19/brunch: http://brunch-alpha-sooty.vercel.app/ <br>
 Node server: https://github.com/sreegithub19/node_server: https://node-server-self.vercel.app/ <br>
-TS Node server: https://github.com/sreegithub19/ts_node_server: https://ts-node-server-self.vercel.app/ <br>
+TS Node server: https://github.com/sreegithub19/ts_node_server: https://ts-node-server.vercel.app/ <br>
 Python server: https://github.com/sreegithub19/python_server: https://python-server-beta.vercel.app/api <br>
 Hapijs: https://github.com/sreegithub19/hapijs_vercel: https://hapijs-vercel.vercel.app/ <br>
 Koa: https://github.com/sreegithub19/koa_project: http://koa-project-one.vercel.app/ <br>
