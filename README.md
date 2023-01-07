@@ -76,6 +76,7 @@
 <h3>4. JavaScript-Applications:</h3> <br>
 Express: https://github.com/sreegithub19/JavaScript-Applications  : https://serene-stream-98532.herokuapp.com/ <br>
 Express: https://github.com/sreegithub19/express_vercel_app : https://express-vercel-app-xi.vercel.app/ <br>
+Express (TS): https://github.com/sreegithub19/ts_express_vercel_app : https://ts-express-vercel-app.vercel.app/ <br>
 Vue: https://github.com/sreegithub19/vue_project : http://vue-project-liart.vercel.app/ <br>
 Vue: https://github.com/sreegithub19/vuejs_training : https://vuejs-training.vercel.app/ <br>
 Vue: https://github.com/sreegithub19/vuejs_training/tree/typescript : https://vuejs-training-2bd4s4iu3-sreegithub19.vercel.app/ <br>
