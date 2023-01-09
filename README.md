@@ -89,8 +89,8 @@ Solid: https://github.com/sreegithub19/solid_app : http://solid-app-alpha.vercel
 Solid: https://github.com/sreegithub19/solid_app/tree/typescript : https://solid-c3aqyyctd-sreegithub19.vercel.app/ <br>
 Flask: https://github.com/sreegithub19/vercel_flask_app : https://flask-vercel-1-sand.vercel.app/ <br>
 Django: https://github.com/sreegithub19/vercel_django_example : https://vercel-django-example-phi.vercel.app/ <br>
-Next: https://github.com/sreegithub19/nextjs_app/tree/typescript : http://nextjs-sreegithub19.vercel.app/ <br>
-Next (TS): https://github.com/sreegithub19/nextjs_app : https://nextjs-a96gk3vig-sreegithub19.vercel.app/ <br>
+Next: https://github.com/sreegithub19/nextjs_app : http://nextjs-sreegithub19.vercel.app/ <br>
+Next (TS): https://github.com/sreegithub19/nextjs_app/tree/typescript : https://nextjs-a96gk3vig-sreegithub19.vercel.app/ <br>
 Nest: https://github.com/sreegithub19/nestjs_app : https://nestjs-now-nine-olive.vercel.app/ <br>
 Svelte: https://github.com/sreegithub19/svelte: http://svelte-one-topaz.vercel.app/ <br>
 Ember: https://github.com/sreegithub19/ember: http://ember-omega-seven.vercel.app/ <br>
