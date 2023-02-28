@@ -107,6 +107,9 @@ Koa: https://github.com/sreegithub19/koa_project: http://koa-project-one.vercel.
 Golang: https://github.com/sreegithub19/golang_vercel.git : https://golang-vercel-ten.vercel.app/api/applications <br>
 Qwik (TS): https://github.com/sreegithub19/qwik-app : https://wondrous-stardust-ebf056.netlify.app/ <br>
 Gatsby: https://github.com/sreegithub19/gatsby : http://gatsby-three-kohl.vercel.app/ <br>
+Remix (TS): https://github.com/sreegithub19/remix : http://remix-delta-eight.vercel.app/ <br>
+Backbone: https://github.com/sreegithub19/backbone_vercel : https://backbone-vercel.vercel.app/ <br>
+Knockout: https://github.com/sreegithub19/knockout_vercel : https://knockout-vercel.vercel.app/ <br>
 <br>
 <p>Screenshots:</p>
      <table>
