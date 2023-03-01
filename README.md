@@ -91,7 +91,7 @@ Flask: https://github.com/sreegithub19/vercel_flask_app : https://flask-vercel-1
 Django: https://github.com/sreegithub19/vercel_django_example : https://vercel-django-example1.vercel.app/ <br>
 Next: https://github.com/sreegithub19/nextjs_app : http://nextjs-sreegithub19.vercel.app/ <br>
 Next (TS): https://github.com/sreegithub19/nextjs_app/tree/typescript : https://nextjs-a96gk3vig-sreegithub19.vercel.app/ <br>
-Next (TS-JS): https://github.com/sreegithub19/nextjs_app/tree/ts_js : https://nextjs-git-tsjs-sreegithub19.vercel.app/  <br>
+Next (TS-JS): https://github.com/sreegithub19/nextjs_app/tree/ts_js : https://nextjs-git-tsjs-sreegithub19.vercel.app/ ; https://nextjs-git-tsjs-sreegithub19.vercel.app/rest  <br>
 Nest: https://github.com/sreegithub19/nestjs_app : https://nestjs-now-nine-olive.vercel.app/ <br>
 Nest (JS): https://github.com/sreegithub19/nestjs_js : https://nestjs-js.vercel.app/ <br>
 Svelte: https://github.com/sreegithub19/svelte: http://svelte-one-topaz.vercel.app/ <br>
