@@ -65,7 +65,7 @@
      <table>
       <tr>
         <td>
-          <img src="https://raw.githubusercontent.com/sreegithub19/App_clones/main/screenshots/4_Video-Meeting/1_sample-video-chat.png" width="400" height="300"/>
+          <p>Demo: https://user-images.githubusercontent.com/55496113/222215213-5d76f153-d9aa-46b8-9fbf-13a32904190f.mp4 </p>
           <br>
           <figcaption>1_sample-video-chat</figcaption>
         </td>
