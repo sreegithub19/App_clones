@@ -114,6 +114,7 @@ Remix (TS): https://github.com/sreegithub19/remix : http://remix-delta-eight.ver
 Backbone: https://github.com/sreegithub19/backbone_vercel : https://backbone-vercel.vercel.app/ <br>
 Knockout: https://github.com/sreegithub19/knockout_vercel : https://knockout-vercel.vercel.app/ <br>
 GraphQL: https://github.com/sreegithub19/apollo_graphql: https://apollo-graphql.vercel.app/applications <br>
+FastAPI: https://github.com/sreegithub19/fastapi_python: https://fastapi-python.vercel.app/ <br>
 <br>
 <p>Screenshots:</p>
      <table>
