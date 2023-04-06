@@ -98,6 +98,7 @@ https://nextjs-git-tsjs-sreegithub19.vercel.app/rest
 }<br>
 Nest: https://github.com/sreegithub19/nestjs_app : https://nestjs-now-nine-olive.vercel.app/ <br>
 Nest (JS): https://github.com/sreegithub19/nestjs_js : https://nestjs-js.vercel.app/ <br>
+Nest (tsx): https://github.com/sreegithub19/nestjs_tsx : https://nest-tsx.vercel.app/ <br>
 Svelte: https://github.com/sreegithub19/svelte: http://svelte-one-topaz.vercel.app/ <br>
 Ember: https://github.com/sreegithub19/ember: http://ember-omega-seven.vercel.app/ <br>
 Umijs: https://github.com/sreegithub19/umijs: http://umijs-smoky-nu.vercel.app/ <br>
