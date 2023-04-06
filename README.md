@@ -82,7 +82,7 @@ Vue: https://github.com/sreegithub19/vuejs_training : https://vuejs-training.ver
 Vue (TS): https://github.com/sreegithub19/vuejs_training/tree/typescript : https://vuejs-training-2bd4s4iu3-sreegithub19.vercel.app/ <br>
 React: https://github.com/sreegithub19/my_react_app  : https://my-react-app-one-sigma.vercel.app/<br>
 <hr>
-React: https://github.com/sreegithub19/my_react_app/tree/main : https://my-react-ouhg5z0db-sreegithub19.vercel.app/ <br>
+React: https://github.com/sreegithub19/my_react_app/tree/main : https://my-react-app-git-main-sreegithub19.vercel.app/ <br>
 Angular: https://github.com/sreegithub19/my_angular_app  :  https://my-angular-app-rust.vercel.app/  <br>
 Angular: https://github.com/sreegithub19/my_angular_app/tree/main : https://my-angular-q3ir60od6-sreegithub19.vercel.app/ <br>
 Ionic: https://github.com/sreegithub19/ionic_app : https://ionic-app-nu.vercel.app/ <br>
