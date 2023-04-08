@@ -88,7 +88,6 @@ Angular: https://github.com/sreegithub19/my_angular_app/tree/main : https://my-a
 Ionic: https://github.com/sreegithub19/ionic_app : https://ionic-app-nu.vercel.app/ <br>
 Solid: https://github.com/sreegithub19/solid_app : http://solid-app-alpha.vercel.app/ <br>
 Solid (TS): https://github.com/sreegithub19/solid_app/tree/typescript : https://solid-c3aqyyctd-sreegithub19.vercel.app/ <br>
-<hr>
 Flask: https://github.com/sreegithub19/vercel_flask_app : https://flask-vercel-1-sand.vercel.app/ <br>
 Django: https://github.com/sreegithub19/vercel_django_example : https://vercel-django-example1.vercel.app/ <br>
 Next: https://github.com/sreegithub19/nextjs_app : http://nextjs-sreegithub19.vercel.app/ <br>
