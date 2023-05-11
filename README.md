@@ -96,7 +96,7 @@ Next (TS-JS): https://github.com/sreegithub19/nextjs_app/tree/ts_js : {
 https://nextjs-git-tsjs-sreegithub19.vercel.app/ ; 
 https://nextjs-git-tsjs-sreegithub19.vercel.app/rest  
 }<br>
-Next (along with Python): https://github.com/sreegithub19/nextjs_project : https://nextjs-project-tau-eight.vercel.app/ <br>
+Next (along with Python): https://github.com/sreegithub19/nextjs_project : https://nextjs-project-39d2.vercel.app/ <br>
 Nest: https://github.com/sreegithub19/nestjs_app : https://nestjs-now-nine-olive.vercel.app/ <br>
 Nest (JS): https://github.com/sreegithub19/nestjs_js : https://nestjs-js.vercel.app/ <br>
 Nest (tsx): https://github.com/sreegithub19/nestjs_tsx : https://nest-tsx.vercel.app/ <br>
